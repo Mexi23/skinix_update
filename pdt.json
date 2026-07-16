@@ -1,10 +1,8 @@
 {
-
-"visible":"true",
-"title":"Update Notice!",
-"discription":"Dear User, Skinix have new updates, try to install to see the latest version",
-"cancellable":"true",
-"button":"Download",
-  "link":"https://play.google.com/store/apps/details?id=com.draxyn.app"
-
+  "visible": "true",
+  "title": "Update Notice!",
+  "discription": "Dear User, Skinix has a new update. Download the latest version to see the newest features.",
+  "cancellable": "true",
+  "button": "Download",
+  "link": "https://play.google.com/store/apps/details?id=com.skinix.tools"
 }
