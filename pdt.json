@@ -3,8 +3,8 @@
 "visible":"true",
 "title":"Update Notice!",
 "discription":"Dear User, Skinix have new updates, try to install to see the latest version",
-"cancellable":"true",
+"cancellable":"false",
 "button":"Download",
-  "link":"youtube.com"
+  "link":"https://play.google.com/store/apps/details?id=com.draxyn.app"
 
 }
